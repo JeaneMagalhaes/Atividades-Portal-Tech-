@@ -5,7 +5,7 @@ faltas = 2
 ressoma = (notaA + notaB) 
 resmedia = (ressoma / 2)
 
-if (resmedia >= 7) and (faltas < 3):
+if ((resmedia >= 7) and (faltas < 3)):
   print(aluno "aprovado")
-    else
+    else:
     print(aluno "reprovado")
