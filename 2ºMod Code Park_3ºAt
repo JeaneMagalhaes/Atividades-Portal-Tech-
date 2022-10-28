@@ -1,0 +1,17 @@
+# 2ºModulo Code Park 
+# 3ºAtividade 
+
+
+var = qdtRodas
+var = pesoBruto 
+var = qtdPessoas 
+
+
+if ((qdtRodas  = 4) and (qtdPessoas <= 8) and (pesoBruto <= 3500)):
+  print("Andar01")
+elif ((qdtRodas  >= 4) and (pesoBruto > 3500 < 6000)):
+  print("Andar02")
+elif ((qdtRodas  >= 4) and (qtdPessoas >= 8)):
+  print("Andar03")
+else ((qdtRodas  >= 4) and (pesoBruto > 6000)):
+  print("Andar04")
