@@ -1,0 +1,11 @@
+aluno = jeane 
+notaA = 10
+notaB = 8
+faltas = 2
+ressoma = (notaA + notaB) 
+resmedia = (ressoma / 2)
+
+if (resmedia >= 7) and (faltas < 3):
+  print(aluno "aprovado")
+    else
+    print(aluno "reprovado")
