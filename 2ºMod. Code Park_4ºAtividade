@@ -1,0 +1,73 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JeaneMagalhaes/Atividades-Portal-Tech-/blob/main/2%C2%BAMod.%20Code%20Park_4%C2%BAAtividade\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from time import sleep\n",
+        "\n",
+        "print('Iniciando contagem regressiva:')\n",
+        "\n",
+        "for c in range(10, -1, -1):\n",
+        "\n",
+        "   sleep(1)\n",
+        "\n",
+        "   print(c)\n",
+        "\n",
+        "print('BUMMM!')"
+      ],
+      "metadata": {
+        "id": "V_3Bow99Bdqn",
+        "outputId": "9cd75588-2ea5-4a14-ff09-63066597ea4d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Iniciando contagem regressiva:\n",
+            "10\n",
+            "9\n",
+            "8\n",
+            "7\n",
+            "6\n",
+            "5\n",
+            "4\n",
+            "3\n",
+            "2\n",
+            "1\n",
+            "0\n",
+            "BUMMM!\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "collapsed_sections": [],
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
