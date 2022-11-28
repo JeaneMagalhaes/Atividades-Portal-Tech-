@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos Turisticos</title>
+</head>
+<body>
+    
+    <section>
+        <h1>Pontos Turisticos na Europa</h1>
+        
+        <P>A Europa é destino obrigatório para quem gosta de viajar. Mas decidir exatamente onde ir entre os 50 países que fazem parte do continente não é tarefa fácil. Para te ajudar, selecionamos os 05 principais pontos turísticos na Europa.</P>
+    </section>
+
+    <section>
+        <ol>1.Coliseu em Roma, Itália</ol>
+        <img src="../Europa/01.webp" alt=""/>
+        <ol>2. Torre Eiffel em Paris, França</ol>
+        <ol>3. Museu do Louvre em Paris, França</ol>
+        <ol>4. Sagrada Família em Barcelona, Espanha</ol>
+        <img src="../Europa/04.webp" alt=""/>
+        <ol>5. Big Ben em Londres, Inglaterra</ol>
+    </section>
+    
+</body>
+</html>
